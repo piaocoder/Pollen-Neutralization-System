@@ -1,0 +1,3 @@
+首先加载data.m中一组数据到工作空间，然后运行 [FCU_T1,FCU_T2,FCU_T3,FCU_T4]=fuzzy_table(Me,Mec,Mu,UC)函数。
+
+有事可交流asqwasqw-2@163.com
